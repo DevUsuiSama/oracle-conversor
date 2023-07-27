@@ -8,7 +8,7 @@ package com.conversor;
 import javax.swing.JOptionPane;
 
 import com.conversor.monedas.ConvertirMonedas;
-import com.conversor.sistemadenumeracion.ConvertirSistemasDeNumeros;
+import com.conversor.sistemasdenumeracion.ConvertirSistemasDeNumeros;
 
 public class App {
 
@@ -45,7 +45,7 @@ public class App {
                         }
                     }
                     break;
-                case "Conversor de Sistema de Numeraci\u00F3n":
+                case "Conversor de Sistemas de Numeraci\u00F3n":
                     ConvertirSistemasDeNumeros convertirSistemasDeNumeros = new ConvertirSistemasDeNumeros();
                     while (true) {
                         if (convertirSistemasDeNumeros.iniciar()) {
