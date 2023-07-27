@@ -16,7 +16,7 @@ public class App {
     static final String MENU = "Menu Principal";
     static final Object[] OPCIONES = {
             "Conversor de Moneda",
-            "Conversor de Sistema de Numeración"
+            "Conversor de Sistemas de Numeración"
     };
     static final String BOTON = "Seleccion";
     static boolean continuar = true;
