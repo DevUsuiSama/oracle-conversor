@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto fue desarrollador durante el curso de Alura, la cual trata de un sencillo conversor de valores monetarios y de sistemas de numeraciones.
+Este proyecto fue desarrollador durante el curso de Alura, la cual trata de un sencillo conversor de valores monetarios y de sistemas de numeración.
 
 ## Previsualización
 
